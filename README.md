@@ -16,5 +16,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vashishth-V.visitor-badge)
 
 </h3>
+</br>
 
-<a href="https://in.linkedin.com/in/vashishth-vaghela-280247188" target="_blank"><img alt="LinkedIn" width="30px" src="https://github.com/Vashishth-V/STASH/blob/main/linkedIn_PNG38.png" /></a>
+<P align="center"><a href="https://in.linkedin.com/in/vashishth-vaghela-280247188" target="_blank"><img alt="LinkedIn" width="100px" src="https://github.com/Vashishth-V/STASH/blob/main/linkedin-logo-rectangle.png" /></a></P>
