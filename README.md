@@ -17,8 +17,4 @@
 
 </h3>
 
-
-<img align="center" alt="LinkedIN" width="30px" src="https://github.com/Vashishth-V/STASH/blob/main/linkedIn_PNG38.png"/>[LinkedIn](https://in.linkedin.com/in/vashishth-vaghela-280247188)
-
-
-
+<a href="https://in.linkedin.com/in/vashishth-vaghela-280247188" target="_blank"><img alt="LinkedIn" width="30px" src="https://github.com/Vashishth-V/STASH/blob/main/linkedIn_PNG38.png" /></a>
