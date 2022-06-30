@@ -1,8 +1,13 @@
 <h1 style="font-size:10vw" align="center"><I><b>Greetings!!!</b></I></h1>
 <P align="justify">
-<b>I am Vashishth Vaghela, a Technical Enthusiast. I Design and Solve Hardware, and Firmware. My technical expertise lies in PCB designing and Circuit Designing. I write Firmware for popular MCU families. I am looking for opportunities in the field of Embedded Hardware design in EV and Metering domains. If you would like to hire me, Pleae E-mail me at vashishth.vaghela@gmail.com.</b></P>
+<b>I am Vashishth Vaghela, a Technical Enthusiast. I Design and Solve Hardware, and Firmware. My technical expertise lies in PCB designing and Circuit Designing. I write Firmware for popular MCU families. I am looking for opportunities in the field of Embedded Hardware design in EV and Metering domains. If you would like to hire me, Please E-mail me at vashishth.vaghela@gmail.com.</b></P>
 
-[Check out my work](https://github.com/Vashishth-V/SHARABLES)
+Check out my work here:
+
+
+[Work Images](https://github.com/Vashishth-V/SHARABLES)
+
+[Work Details](https://github.com/Vashishth-V/SHARABLES/projects?query=is%3Aclosed&type=classic)
 
 <P align="center"><b>Skills</b></P>
 <div align="center">
